@@ -1,0 +1,70 @@
+D:\Ковтунец Андрей С#A\FlappyBird_v1.0\FlappyBird_v1.0\bin\Debug\FlappyBird_v1.0.exe.config
+D:\Ковтунец Андрей С#A\FlappyBird_v1.0\FlappyBird_v1.0\bin\Debug\FlappyBird_v1.0.exe
+D:\Ковтунец Андрей С#A\FlappyBird_v1.0\FlappyBird_v1.0\bin\Debug\FlappyBird_v1.0.pdb
+D:\Ковтунец Андрей С#A\FlappyBird_v1.0\FlappyBird_v1.0\obj\Debug\FlappyBird_v1.0.csprojAssemblyReference.cache
+D:\Ковтунец Андрей С#A\FlappyBird_v1.0\FlappyBird_v1.0\obj\Debug\FlappyBird_v1._0.Form1.resources
+D:\Ковтунец Андрей С#A\FlappyBird_v1.0\FlappyBird_v1.0\obj\Debug\FlappyBird_v1._0.Properties.Resources.resources
+D:\Ковтунец Андрей С#A\FlappyBird_v1.0\FlappyBird_v1.0\obj\Debug\FlappyBird_v1.0.csproj.GenerateResource.cache
+D:\Ковтунец Андрей С#A\FlappyBird_v1.0\FlappyBird_v1.0\obj\Debug\FlappyBird_v1.0.csproj.CoreCompileInputs.cache
+D:\Ковтунец Андрей С#A\FlappyBird_v1.0\FlappyBird_v1.0\obj\Debug\FlappyBird_v1.0.exe
+D:\Ковтунец Андрей С#A\FlappyBird_v1.0\FlappyBird_v1.0\obj\Debug\FlappyBird_v1.0.pdb
+C:\Андрей\Программирование\C#Advanced\Мой первый проект\FlappyBird_v1.0\FlappyBird_v1.0\bin\Debug\FlappyBird_v1.0.exe.config
+C:\Андрей\Программирование\C#Advanced\Мой первый проект\FlappyBird_v1.0\FlappyBird_v1.0\bin\Debug\FlappyBird_v1.0.exe
+C:\Андрей\Программирование\C#Advanced\Мой первый проект\FlappyBird_v1.0\FlappyBird_v1.0\bin\Debug\FlappyBird_v1.0.pdb
+C:\Андрей\Программирование\C#Advanced\Мой первый проект\FlappyBird_v1.0\FlappyBird_v1.0\obj\Debug\FlappyBird_v1.0.csprojAssemblyReference.cache
+C:\Андрей\Программирование\C#Advanced\Мой первый проект\FlappyBird_v1.0\FlappyBird_v1.0\obj\Debug\FlappyBird_v1._0.Form1.resources
+C:\Андрей\Программирование\C#Advanced\Мой первый проект\FlappyBird_v1.0\FlappyBird_v1.0\obj\Debug\FlappyBird_v1._0.Properties.Resources.resources
+C:\Андрей\Программирование\C#Advanced\Мой первый проект\FlappyBird_v1.0\FlappyBird_v1.0\obj\Debug\FlappyBird_v1.0.csproj.GenerateResource.cache
+C:\Андрей\Программирование\C#Advanced\Мой первый проект\FlappyBird_v1.0\FlappyBird_v1.0\obj\Debug\FlappyBird_v1.0.csproj.CoreCompileInputs.cache
+C:\Андрей\Программирование\C#Advanced\Мой первый проект\FlappyBird_v1.0\FlappyBird_v1.0\obj\Debug\FlappyBird_v1.0.exe
+C:\Андрей\Программирование\C#Advanced\Мой первый проект\FlappyBird_v1.0\FlappyBird_v1.0\obj\Debug\FlappyBird_v1.0.pdb
+D:\Ковтунец Андрей С#A\Мой первый проект_2\FlappyBird_v1.0\FlappyBird_v1.0\bin\Debug\FlappyBird_v1.0.exe.config
+D:\Ковтунец Андрей С#A\Мой первый проект_2\FlappyBird_v1.0\FlappyBird_v1.0\bin\Debug\FlappyBird_v1.0.exe
+D:\Ковтунец Андрей С#A\Мой первый проект_2\FlappyBird_v1.0\FlappyBird_v1.0\bin\Debug\FlappyBird_v1.0.pdb
+D:\Ковтунец Андрей С#A\Мой первый проект_2\FlappyBird_v1.0\FlappyBird_v1.0\obj\Debug\FlappyBird_v1.0.csprojAssemblyReference.cache
+D:\Ковтунец Андрей С#A\Мой первый проект_2\FlappyBird_v1.0\FlappyBird_v1.0\obj\Debug\FlappyBird_v1._0.Form1.resources
+D:\Ковтунец Андрей С#A\Мой первый проект_2\FlappyBird_v1.0\FlappyBird_v1.0\obj\Debug\FlappyBird_v1._0.Properties.Resources.resources
+D:\Ковтунец Андрей С#A\Мой первый проект_2\FlappyBird_v1.0\FlappyBird_v1.0\obj\Debug\FlappyBird_v1.0.csproj.GenerateResource.cache
+D:\Ковтунец Андрей С#A\Мой первый проект_2\FlappyBird_v1.0\FlappyBird_v1.0\obj\Debug\FlappyBird_v1.0.csproj.CoreCompileInputs.cache
+D:\Ковтунец Андрей С#A\Мой первый проект_2\FlappyBird_v1.0\FlappyBird_v1.0\obj\Debug\FlappyBird_v1.0.exe
+D:\Ковтунец Андрей С#A\Мой первый проект_2\FlappyBird_v1.0\FlappyBird_v1.0\obj\Debug\FlappyBird_v1.0.pdb
+E:\Андрей\Программирование\C#Advanced\Мой первый проект_2\FlappyBird_v1.0\FlappyBird_v1.0\bin\Debug\FlappyBird_v1.0.exe.config
+E:\Андрей\Программирование\C#Advanced\Мой первый проект_2\FlappyBird_v1.0\FlappyBird_v1.0\bin\Debug\FlappyBird_v1.0.exe
+E:\Андрей\Программирование\C#Advanced\Мой первый проект_2\FlappyBird_v1.0\FlappyBird_v1.0\bin\Debug\FlappyBird_v1.0.pdb
+E:\Андрей\Программирование\C#Advanced\Мой первый проект_2\FlappyBird_v1.0\FlappyBird_v1.0\obj\Debug\FlappyBird_v1.0.csprojAssemblyReference.cache
+E:\Андрей\Программирование\C#Advanced\Мой первый проект_2\FlappyBird_v1.0\FlappyBird_v1.0\obj\Debug\FlappyBird_v1._0.Form1.resources
+E:\Андрей\Программирование\C#Advanced\Мой первый проект_2\FlappyBird_v1.0\FlappyBird_v1.0\obj\Debug\FlappyBird_v1._0.Properties.Resources.resources
+E:\Андрей\Программирование\C#Advanced\Мой первый проект_2\FlappyBird_v1.0\FlappyBird_v1.0\obj\Debug\FlappyBird_v1.0.csproj.GenerateResource.cache
+E:\Андрей\Программирование\C#Advanced\Мой первый проект_2\FlappyBird_v1.0\FlappyBird_v1.0\obj\Debug\FlappyBird_v1.0.csproj.CoreCompileInputs.cache
+E:\Андрей\Программирование\C#Advanced\Мой первый проект_2\FlappyBird_v1.0\FlappyBird_v1.0\obj\Debug\FlappyBird_v1.0.exe
+E:\Андрей\Программирование\C#Advanced\Мой первый проект_2\FlappyBird_v1.0\FlappyBird_v1.0\obj\Debug\FlappyBird_v1.0.pdb
+C:\Андрей\Программирование\C#Advanced\Мой первый проект_2\FlappyBird_v1.0\FlappyBird_v1.0\bin\Debug\FlappyBird_v1.0.exe.config
+C:\Андрей\Программирование\C#Advanced\Мой первый проект_2\FlappyBird_v1.0\FlappyBird_v1.0\bin\Debug\FlappyBird_v1.0.exe
+C:\Андрей\Программирование\C#Advanced\Мой первый проект_2\FlappyBird_v1.0\FlappyBird_v1.0\bin\Debug\FlappyBird_v1.0.pdb
+C:\Андрей\Программирование\C#Advanced\Мой первый проект_2\FlappyBird_v1.0\FlappyBird_v1.0\obj\Debug\FlappyBird_v1.0.csprojAssemblyReference.cache
+C:\Андрей\Программирование\C#Advanced\Мой первый проект_2\FlappyBird_v1.0\FlappyBird_v1.0\obj\Debug\FlappyBird_v1._0.Form1.resources
+C:\Андрей\Программирование\C#Advanced\Мой первый проект_2\FlappyBird_v1.0\FlappyBird_v1.0\obj\Debug\FlappyBird_v1._0.Properties.Resources.resources
+C:\Андрей\Программирование\C#Advanced\Мой первый проект_2\FlappyBird_v1.0\FlappyBird_v1.0\obj\Debug\FlappyBird_v1.0.csproj.GenerateResource.cache
+C:\Андрей\Программирование\C#Advanced\Мой первый проект_2\FlappyBird_v1.0\FlappyBird_v1.0\obj\Debug\FlappyBird_v1.0.csproj.CoreCompileInputs.cache
+C:\Андрей\Программирование\C#Advanced\Мой первый проект_2\FlappyBird_v1.0\FlappyBird_v1.0\obj\Debug\FlappyBird_v1.0.exe
+C:\Андрей\Программирование\C#Advanced\Мой первый проект_2\FlappyBird_v1.0\FlappyBird_v1.0\obj\Debug\FlappyBird_v1.0.pdb
+D:\Ковтунец Андрей С#A\Мой первый проект_3\FlappyBird_v1.0\FlappyBird_v1.0\obj\Debug\FlappyBird_v1.0.csprojAssemblyReference.cache
+D:\Ковтунец Андрей С#A\Мой первый проект_3\FlappyBird_v1.0\FlappyBird_v1.0\obj\Debug\FlappyBird_v1._0.Form1.resources
+D:\Ковтунец Андрей С#A\Мой первый проект_3\FlappyBird_v1.0\FlappyBird_v1.0\obj\Debug\FlappyBird_v1._0.Properties.Resources.resources
+D:\Ковтунец Андрей С#A\Мой первый проект_3\FlappyBird_v1.0\FlappyBird_v1.0\obj\Debug\FlappyBird_v1.0.csproj.GenerateResource.cache
+D:\Ковтунец Андрей С#A\Мой первый проект_3\FlappyBird_v1.0\FlappyBird_v1.0\obj\Debug\FlappyBird_v1.0.csproj.CoreCompileInputs.cache
+D:\Ковтунец Андрей С#A\Мой первый проект_3\FlappyBird_v1.0\FlappyBird_v1.0\obj\Debug\FlappyBird_v1.0.exe
+D:\Ковтунец Андрей С#A\Мой первый проект_3\FlappyBird_v1.0\FlappyBird_v1.0\obj\Debug\FlappyBird_v1.0.pdb
+D:\Ковтунец Андрей С#A\Мой первый проект_3\FlappyBird_v1.0\FlappyBird_v1.0\bin\Debug\FlappyBird_v1.0.exe.config
+D:\Ковтунец Андрей С#A\Мой первый проект_3\FlappyBird_v1.0\FlappyBird_v1.0\bin\Debug\FlappyBird_v1.0.exe
+D:\Ковтунец Андрей С#A\Мой первый проект_3\FlappyBird_v1.0\FlappyBird_v1.0\bin\Debug\FlappyBird_v1.0.pdb
+C:\Андрей\Программирование\C#Advanced\Мой первый проект_4\FlappyBird_v1.0\FlappyBird_v1.0\bin\Debug\FlappyBird_v1.0.exe.config
+C:\Андрей\Программирование\C#Advanced\Мой первый проект_4\FlappyBird_v1.0\FlappyBird_v1.0\bin\Debug\FlappyBird_v1.0.exe
+C:\Андрей\Программирование\C#Advanced\Мой первый проект_4\FlappyBird_v1.0\FlappyBird_v1.0\bin\Debug\FlappyBird_v1.0.pdb
+C:\Андрей\Программирование\C#Advanced\Мой первый проект_4\FlappyBird_v1.0\FlappyBird_v1.0\obj\Debug\FlappyBird_v1.0.csprojAssemblyReference.cache
+C:\Андрей\Программирование\C#Advanced\Мой первый проект_4\FlappyBird_v1.0\FlappyBird_v1.0\obj\Debug\FlappyBird_v1._0.Form1.resources
+C:\Андрей\Программирование\C#Advanced\Мой первый проект_4\FlappyBird_v1.0\FlappyBird_v1.0\obj\Debug\FlappyBird_v1._0.Properties.Resources.resources
+C:\Андрей\Программирование\C#Advanced\Мой первый проект_4\FlappyBird_v1.0\FlappyBird_v1.0\obj\Debug\FlappyBird_v1.0.csproj.GenerateResource.cache
+C:\Андрей\Программирование\C#Advanced\Мой первый проект_4\FlappyBird_v1.0\FlappyBird_v1.0\obj\Debug\FlappyBird_v1.0.csproj.CoreCompileInputs.cache
+C:\Андрей\Программирование\C#Advanced\Мой первый проект_4\FlappyBird_v1.0\FlappyBird_v1.0\obj\Debug\FlappyBird_v1.0.exe
+C:\Андрей\Программирование\C#Advanced\Мой первый проект_4\FlappyBird_v1.0\FlappyBird_v1.0\obj\Debug\FlappyBird_v1.0.pdb
